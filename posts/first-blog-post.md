@@ -1,24 +1,24 @@
 ---
-title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+title: DMS1 WEEK1
+published_at: 2024-03-05T15:00:00.000Z
+snippet: Scanevenger Hunt
 ---
 
 Hello, world!
 
-This is our pictures about the school
+This is our pictures about the game!
 
-![golden globe](/w01s1.01.jpg)
+![A golden globe atop a tower of eights.](/static/w01S1/01.jpg)
 
-![wide machine](w01S1/02.jpg)
+![A wide machine, dispensing beverages from a far away land.](/static/w01S1/02.jpg)
 
-![media book](/w01S1/03.jpg)
+![A book containing Digital Media wisdom, found amongst many.](/static/w01S1/03.jpg)
 
-![explosive coffee](/w01S1/05.jpg)
+![The disembodied hands of a great ape](/static/w01S1/06.jpg)
 
-![ape's hand](/w01S1/06.jpg)
+![A door for the condemned](/static/w01S1/04.jpg)
 
-![door for condemned](/w01S1/04.jpg)
+![An explosive cup of coffee](/static/w01S1/05.jpg)
 
 
 ## This is h2
