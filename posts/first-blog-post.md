@@ -9,17 +9,17 @@ Hello, world!
 This is our pictures about the game!
 
 ![A golden globe atop a tower of eights.](/static/w01s1/01.jpg)
-
+this a relly tall tower
 ![A wide machine, dispensing beverages from a far away land.](/static/w01s1/02.jpg)
-
+At first we thought it was some powerful machine, but it turned out to be just a vending machine.
 ![A book containing Digital Media wisdom, found amongst many.](/static/w01s1/03.jpg)
-
+We have tried our best to find this book
 ![The disembodied hands of a great ape](/static/w01s1/06.jpg)
-
+A very interesting statue, like a work of art
 ![A door for the condemned](/static/w01s1/04.jpg)
-
+I'm not sure if this gate belongs to our school anymore.
 ![An explosive cup of coffee](/static/w01s1/05.jpg)
-
+What a unique trademark!
 
 ## This is h2
 
