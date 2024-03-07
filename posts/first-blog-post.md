@@ -10,15 +10,15 @@ This is our pictures about the game!
 
 ![A golden globe atop a tower of eights.](/w01s1/01.jpg)
 
-![A wide machine, dispensing beverages from a far away land.](/w01S1/02.jpg)
+![A wide machine, dispensing beverages from a far away land.](/w01s1/02.jpg)
 
-![A book containing Digital Media wisdom, found amongst many.](/static/w01S1/03.jpg)
+![A book containing Digital Media wisdom, found amongst many.](/static/w01s1/03.jpg)
 
-![The disembodied hands of a great ape](/static/w01S1/06.jpg)
+![The disembodied hands of a great ape](/static/w01s1/06.jpg)
 
-![A door for the condemned](/static/w01S1/04.jpg)
+![A door for the condemned](/static/w01s1/04.jpg)
 
-![An explosive cup of coffee](/static/w01S1/05.jpg)
+![An explosive cup of coffee](/static/w01s1/05.jpg)
 
 
 ## This is h2
