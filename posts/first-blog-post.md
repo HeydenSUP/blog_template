@@ -8,9 +8,9 @@ Hello, world!
 
 This is our pictures about the game!
 
-![A golden globe atop a tower of eights.](/W01s1/01.jpg)
+![A golden globe atop a tower of eights.](/W01S1/01.jpg)
 
-![A wide machine, dispensing beverages from a far away land.](/W01s1/02.jpg)
+![A wide machine, dispensing beverages from a far away land.](/W01S1/02.jpg)
 
 ![A book containing Digital Media wisdom, found amongst many.](/static/w01s1/03.jpg)
 
