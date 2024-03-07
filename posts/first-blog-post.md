@@ -8,17 +8,17 @@ Hello, world!
 
 This is our pictures about the school
 
-![golden globe](/static/W01S1/01.jpg)
+![golden globe](/w01s1.01.jpg)
 
-![wide machine](/static/W01S1/02.jpg)
+![wide machine](w01S1/02.jpg)
 
-![media book](/static/W01S1/03.jpg)
+![media book](/w01S1/03.jpg)
 
-![explosive coffee](/static/W01S1/04.jpg)
+![explosive coffee](/w01S1/05.jpg)
 
-![ape's hand](/static/W01S1/05.jpg)
+![ape's hand](/w01S1/06.jpg)
 
-![door for condemned](/static/W01S1/06.jpg)
+![door for condemned](/w01S1/04.jpg)
 
 
 ## This is h2
