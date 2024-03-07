@@ -8,7 +8,7 @@ Hello, world!
 
 This is our pictures about the game!
 
-![A golden globe atop a tower of eights.](/static/w01S1/01.jpg)
+![A golden globe atop a tower of eights.](/w01s1/01.jpg)
 
 ![A wide machine, dispensing beverages from a far away land.](/static/w01S1/02.jpg)
 
