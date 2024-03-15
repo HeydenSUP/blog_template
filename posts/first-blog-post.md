@@ -21,7 +21,6 @@ I'm not sure if this gate belongs to our school anymore.
 ![An explosive cup of coffee](/w01s1/05.jpg)
 What a unique trademark!
 
-![the 30s vedio](/w01s1/v01.mp4)
-_underline_
-
+https://youtu.be/VZnM3qlAyHY
+![the 30s vedio]
 **bold**
