@@ -23,4 +23,5 @@ What a unique trademark!
 
 https://youtu.be/VZnM3qlAyHY
 ![the 30s vedio]
+In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
 **bold**
