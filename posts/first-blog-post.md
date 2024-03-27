@@ -26,13 +26,19 @@ title: DMS1 WEEK1 s2
 published_at: 2024-03-08T15:00:00.000Z
 snippet: 30s practice video
 ---
+
+
 https://youtu.be/VZnM3qlAyHY
 ![the 30s vedio]
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
 
+---
 title: DMS1 WEEK2 s1
 published_at: 2024-03-12T15:00:00.000Z
 snippet: storyboard
+---
+
+
 this is the simple storyboard about my first video
 ![storyboard](/w01s2/s2s2.png)
 As you can see, my story is about the life of an international student who has just arrived in Australia. 
@@ -41,9 +47,23 @@ In this story, I will use a gradual introduction to express the continuity of th
 I will usually use cross dissolve and short cut in editing.
 This story wants to express a sad emotion
 
-w2s2
+---
+title: DMS1 WEEK2 s2
+published_at: 2024-03-14T15:00:00.000Z
+snippet: sound
+---
+
+
+
 Because I want to express a sad emotion, the background music used in my video will be slow and lyrical in major keys.
 In terms of sound effects, I selected some sound effects that enhance the effects of the video materials based on my video materials, such as the sound of turning pages, the sound of leaves, etc.
+
+---
+title: DMS1 WEEK3 s1
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footage
+---
+
 
 w3s1
 I took a lot of pictures of the scenery when I was shooting the material, but I found that the scenery alone could not fully express the sad emotion, so I also took pictures of people doing homework alone and not daring to speak in class.
