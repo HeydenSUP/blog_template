@@ -25,7 +25,15 @@ W2S1
 https://youtu.be/VZnM3qlAyHY
 ![the 30s vedio]
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
+
+
 W2S2
 this is the simple storyboard about my first video
 ![storyboard](/w01s2/s2s2.png)
-As you can see, my story is about the life of an international student who has just arrived in Australia.
+As you can see, my story is about the life of an international student who has just arrived in Australia. 
+He didn't adapt to life here at first, couldn't find friends, and he missed home.
+In this story, I will use a gradual introduction to express the continuity of the story, which includes the gradual introduction of sadness, the gradual introduction of pictures, and the gradual introduction of music.
+
+I will usually use cross dissolve and short cut in editing.
+This story wants to express a sad emotion
+
