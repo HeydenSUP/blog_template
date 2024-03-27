@@ -27,13 +27,21 @@ https://youtu.be/VZnM3qlAyHY
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
 
 
-W2S2
+W2S1
 this is the simple storyboard about my first video
 ![storyboard](/w01s2/s2s2.png)
 As you can see, my story is about the life of an international student who has just arrived in Australia. 
 He didn't adapt to life here at first, couldn't find friends, and he missed home.
 In this story, I will use a gradual introduction to express the continuity of the story, which includes the gradual introduction of sadness, the gradual introduction of pictures, and the gradual introduction of music.
-
 I will usually use cross dissolve and short cut in editing.
 This story wants to express a sad emotion
+
+w2s2
+Because I want to express a sad emotion, the background music used in my video will be slow and lyrical in major keys.
+In terms of sound effects, I selected some sound effects that enhance the effects of the video materials based on my video materials, such as the sound of turning pages, the sound of leaves, etc.
+
+w3s1
+I took a lot of pictures of the scenery when I was shooting the material, but I found that the scenery alone could not fully express the sad emotion, so I also took pictures of people doing homework alone and not daring to speak in class.
+
+Video description: This is a video about the life of a student who has just arrived abroad, with some sadness.
 
