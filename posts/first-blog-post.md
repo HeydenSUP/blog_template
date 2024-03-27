@@ -27,4 +27,5 @@ https://youtu.be/VZnM3qlAyHY
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
 W2S2
 this is the simple storyboard about my first video
-![storyboard](
+![storyboard](/w01s2/s2s2.png)
+As you can see, my story is about the life of an international student who has just arrived in Australia.
