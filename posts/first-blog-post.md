@@ -21,9 +21,11 @@ I'm not sure if this gate belongs to our school anymore.
 ![An explosive cup of coffee](/w01s1/05.jpg)
 What a unique trademark!
 
+---
 title: DMS1 WEEK1 s2
 published_at: 2024-03-08T15:00:00.000Z
 snippet: 30s practice video
+---
 https://youtu.be/VZnM3qlAyHY
 ![the 30s vedio]
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
