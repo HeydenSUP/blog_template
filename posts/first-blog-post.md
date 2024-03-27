@@ -1,5 +1,5 @@
 ---
-title: DMS1 WEEK1
+title: DMS1 WEEK1s1
 published_at: 2024-03-05T15:00:00.000Z
 snippet: Scanevenger Hunt
 ---
@@ -21,13 +21,16 @@ I'm not sure if this gate belongs to our school anymore.
 ![An explosive cup of coffee](/w01s1/05.jpg)
 What a unique trademark!
 
-W2S1
+title: DMS1 WEEK1 s2
+published_at: 2024-03-08T15:00:00.000Z
+snippet: 30s practice video
 https://youtu.be/VZnM3qlAyHY
 ![the 30s vedio]
 In this video, there is a lot of traffic in front of the school. The tram stops and people get on and off. Because during a time after get off work and school, I see people rushing to go home, or some people are also rushing to a relaxing party after a hard day.
 
-
-W2S1
+title: DMS1 WEEK2 s1
+published_at: 2024-03-12T15:00:00.000Z
+snippet: storyboard
 this is the simple storyboard about my first video
 ![storyboard](/w01s2/s2s2.png)
 As you can see, my story is about the life of an international student who has just arrived in Australia. 
