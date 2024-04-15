@@ -40,7 +40,7 @@ snippet: storyboard
 
 
 this is the simple storyboard about my first video
-![storyboard]
+![storyboard](/w01s2/storyboard.jpg)
 As you can see, my story is about the life of an international student who has just arrived in Australia. 
 He didn't adapt to life here at first, couldn't find friends, and he missed home.
 In this story, I will use a gradual introduction to express the continuity of the story, which includes the gradual introduction of sadness, the gradual introduction of pictures, and the gradual introduction of music.
