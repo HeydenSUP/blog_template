@@ -61,7 +61,7 @@ In terms of sound effects, I selected some sound effects that enhance the effect
 ---
 title: DMS1 WEEK3 s1
 published_at: 2024-03-19T15:00:00.000Z
-snippet:footage
+snippet:footag5
 ---
 
 
@@ -69,4 +69,12 @@ w3s1
 I took a lot of pictures of the scenery when I was shooting the material, but I found that the scenery alone could not fully express the sad emotion, so I also took pictures of people doing homework alone and not daring to speak in class.
 
 Video description: This is a video about the life of a student who has just arrived abroad, with some sadness.
+
+---
+title: DMS1 WEEK5 s1
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footage
+---
+this homework sesscion is for the illustator, let's see what i done
+
 
