@@ -76,5 +76,5 @@ published_at: 2024-03-19T15:00:00.000Z
 snippet:footage
 ---
 this homework sesscion is for the illustator, let's see what i done
-
+![oil painting copy](/w01s2/week5 p.jpg)
 
