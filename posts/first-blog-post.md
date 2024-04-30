@@ -75,12 +75,16 @@ title: DMS1 WEEK4 s1
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footag5
 ---
+Week 4 I leant the elements about the icon. In this project, I think the theme of "future" suits me very well. I can think of many elements about the future. This is very similar to technology. In the future, technology will generally be more developed, such as rockets, robots, virtual reality, smart phones, watches, or human implants.
+
+There are also many game icons that are very futuristic, so I want to design a series of game icons with future themes for the many young people who like games.
 
 ---
 title: DMS1 WEEK4 s2
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footag5
 ---
+
 
 ---
 title: DMS1 WEEK5 s1
