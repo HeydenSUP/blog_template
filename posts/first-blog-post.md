@@ -102,7 +102,8 @@ title: DMS1 WEEK5 s2
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footag5
 ---
-
+try to change the icons on the html page.
+![try](/w01s2/try p.png)
 ---
 title: DMS1 WEEK6 s1
 published_at: 2024-03-19T15:00:00.000Z
