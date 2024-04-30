@@ -86,7 +86,8 @@ title: DMS1 WEEK4 s2
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footag5
 ---
-
+![draft](/w01s2/draft.jpg)
+Last time I was going to make a game icon, but I found that the theme of the future was too limited to be used as a game icon, so I decided to make something similar to a commercial icon. See my draft above. The first thing that came to my mind was virtual reality. I remembered that an anime work I had seen before had a device called augmented reality, so I drew it. There are also human implants. After I had this idea, I planned to make a sequential human brain implant, from a normal brain to a chip-modified brain. In addition, there are smart watches, rockets, and astronauts. When I was drawing the astronauts, I thought about doing something different, replacing the astronauts' spacesuits with different tools or lighter spacesuits. I also thought of the atomic nucleus. Nuclear energy is also a technology that future science and technology hopes to master. I think it fits this future project very well. And so on are my thoughts.
 
 ---
 title: DMS1 WEEK5 s1
