@@ -71,6 +71,18 @@ I took a lot of pictures of the scenery when I was shooting the material, but I 
 Video description: This is a video about the life of a student who has just arrived abroad, with some sadness.
 
 ---
+title: DMS1 WEEK4 s1
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footag5
+---
+
+---
+title: DMS1 WEEK4 s2
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footag5
+---
+
+---
 title: DMS1 WEEK5 s1
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footage
@@ -78,3 +90,14 @@ snippet:footage
 this homework sesscion is for the illustator, let's see what i done
 ![oil painting copy](/w01s2/week5 p.jpg)
 
+---
+title: DMS1 WEEK5 s2
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footag5
+---
+
+---
+title: DMS1 WEEK6 s1
+published_at: 2024-03-19T15:00:00.000Z
+snippet:footag5
+---
