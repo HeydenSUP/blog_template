@@ -79,6 +79,8 @@ Week 4 I leant the elements about the icon. In this project, I think the theme o
 
 There are also many game icons that are very futuristic, so I want to design a series of game icons with future themes for the many young people who like games.
 
+![Black Square](/w01s2/zxc.jpg)
+
 ---
 title: DMS1 WEEK4 s2
 published_at: 2024-03-19T15:00:00.000Z
