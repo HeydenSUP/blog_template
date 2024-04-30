@@ -94,9 +94,11 @@ title: DMS1 WEEK5 s1
 published_at: 2024-03-19T15:00:00.000Z
 snippet:footage
 ---
+
+![copy](/w01s2/week 5 p.jpg)
+
 this homework sesscion is for the illustator, let's see what i done
 
-![oil paiting copy](/w01s2/week 5 p.jpg)
 
 ---
 title: DMS1 WEEK5 s2
